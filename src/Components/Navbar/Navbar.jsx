@@ -73,10 +73,10 @@ const Navbar = () => {
   return (
     <NavbarDiv>
       <Left>
-        <H2 to={"/my-portifolio/"}>I.Firdavs</H2>
+        <H2 to={"/rezumye"}>I.Firdavs</H2>
       </Left>
       <Right>
-        <P to={"/my-portifolio/"}>Home</P>
+        <P to={"/rezumye"}>Home</P>
         <P to={"/services"}>Services</P>
         <P to={"/experience"}>Experience</P>
         <P to={"/portifolio"}>Portifolio</P>
