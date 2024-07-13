@@ -64,7 +64,7 @@ function App() {
           </Switches>
         </Navbars>
         <Routes>
-          <Route path="/my-portifolio/" element={<Home />} />
+          <Route path="/rezumye/" element={<Home />} />
           <Route path="/services" element={<Services />} />
           <Route path="/experience" element={<Experiences />} />
           <Route path="/portifolio" element={<Portifolio />} />
